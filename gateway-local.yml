@@ -3,8 +3,4 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://localhost:8082/eureka/
-spring:      
-  cloud:
-    config:
-      uri: http://localhost:8084      
+      defaultZone: http://localhost:18082/eureka/
