@@ -1,4 +1,0 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://appfrg01.cpd.frago.net:18082/eureka
