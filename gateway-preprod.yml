@@ -1,0 +1,9 @@
+server:
+  port: 18080
+spring:
+  application:
+    name: gateway
+eureka:
+  client:
+    region: default
+    registryFetchIntervalSeconds:  5    
