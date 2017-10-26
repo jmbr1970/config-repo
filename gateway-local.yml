@@ -1,7 +1,3 @@
-eureka:
-  client:
-    serviceUrl:
-      defaultZone: http://localhost:18082/eureka/
-  instance:
-    leaseRenewalIntervalInSeconds: 1
-    leaseExpirationDurationInSeconds: 2
+management:
+  security:
+    enabled: false
